@@ -1,0 +1,8 @@
+google-genai
+mujoco
+imageio
+imageio-ffmpeg
+numpy
+pandas
+Pillow
+matplotlib
